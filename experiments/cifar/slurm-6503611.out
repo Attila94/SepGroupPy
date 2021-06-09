@@ -1,0 +1,6 @@
+usage: main.py [-h] [--dataset_path path/to/dataset/root] [--model resnet44]
+               [--batch-size N] [--test-batch-size N] [--samples samples]
+               [--epochs N] [--lr LR] [--momentum M] [--wd WD] [--rc RC]
+               [--hflip] [--no-cuda] [--seed S] [--log-interval N]
+main.py: error: unrecognized arguments: --dataset-path /tudelft.net/staff-bulk/ewi/insy/VisionLab/attilalengyel/datasets
+srun: error: ewi4: task 0: Exited with exit code 2
