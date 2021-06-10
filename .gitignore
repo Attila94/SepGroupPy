@@ -1,3 +1,9 @@
+# Custom
+.DS_Store
+.out
+.pyc
+/build
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
